@@ -16,9 +16,7 @@ A React-based admin dashboard application designed to provide a comprehensive ov
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Getting Started
 
@@ -103,20 +101,3 @@ admin-dashboard/
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Bootstrap](https://getbootstrap.com/) - The most popular CSS framework
 - [Create React App](https://create-react-app.dev/) - Set up a modern web app by running one command
-
-### Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct and the process for submitting pull requests.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgements
-
-- [React Icons](https://react-icons.github.io/react-icons/) - Include popular icons in your React projects easily
-- [Chart.js](https://www.chartjs.org/) - Simple yet flexible JavaScript charting for designers & developers
-- Special thanks to all the [contributors](https://github.com/YOUR_GITHUB_USERNAME/admin-dashboard/graphs/contributors) who helped make this project better.
-```
-
-Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the links provided. This will ensure the links direct to the correct repository and contributors page.
