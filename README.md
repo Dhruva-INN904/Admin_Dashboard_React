@@ -2,11 +2,12 @@
 Bootstrap Dashbord by implementing it on React Js
 
 
-
-
 # Admin Dashboard
 
 A React-based admin dashboard application designed to provide a comprehensive overview of various metrics and data visualization.
+
+# Output
+Result is discussed in the output.pdf
 
 ## Table of Contents
 
